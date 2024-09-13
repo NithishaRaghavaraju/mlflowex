@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_complete_revision/MLFlow/mlruns/0/ce2c6d29e8354b9d91a001048b982f2f/artifacts
+end_time: 1726240839948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce2c6d29e8354b9d91a001048b982f2f
+run_name: bittersweet-bee-812
+run_uuid: ce2c6d29e8354b9d91a001048b982f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726240832087
+status: 3
+tags: []
+user_id: '91805'

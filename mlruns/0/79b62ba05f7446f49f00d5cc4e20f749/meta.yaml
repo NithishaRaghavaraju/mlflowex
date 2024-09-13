@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_complete_revision/MLFlow/mlruns/0/79b62ba05f7446f49f00d5cc4e20f749/artifacts
+end_time: 1726240521987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79b62ba05f7446f49f00d5cc4e20f749
+run_name: polite-bee-467
+run_uuid: 79b62ba05f7446f49f00d5cc4e20f749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726240514217
+status: 3
+tags: []
+user_id: '91805'
