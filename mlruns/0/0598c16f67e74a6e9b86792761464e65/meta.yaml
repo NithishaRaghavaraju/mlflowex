@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_complete_revision/MLFlow/mlruns/0/0598c16f67e74a6e9b86792761464e65/artifacts
+end_time: 1726244111061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0598c16f67e74a6e9b86792761464e65
+run_name: secretive-cow-564
+run_uuid: 0598c16f67e74a6e9b86792761464e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726244106833
+status: 3
+tags: []
+user_id: '91805'
